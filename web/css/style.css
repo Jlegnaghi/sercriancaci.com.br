@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(197, 149, 241);
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 20px;
+    word-break: break-word;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;    
+}
+
+ul{
+    font-size: 15px;
+}
+
+form {
+    color: rgb(7, 7, 7);
+}
+
+#menu {
+    text-align: center;
+ }
+ 
+#menu li {
+     display: inline;
+ }
+ 
+#menu ul {
+     display: none;
+ }
+
+#descriIndex {
+    text-align: center;
+}
+ 
+#descriIndex li {
+     display: inline;
+}
+ 
+#descriIndex ul {
+     display: none;
+} 
+
+#titulo{
+    text-align: center;
+}
+
+#formularioLogin{
+      position:relative;
+      left:37%;
+      top:35%;
+      width:20px;
+      height:150px;
+}
+
+#area #formularioLogin{
+      position:absolute;
+      display:block;
+}
